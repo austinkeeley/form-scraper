@@ -7,14 +7,14 @@
     "when": "2.7.x",
     "promisified-request": "latest",
     "underscore": "1.5.x",
-    "cheerio": "0.12.x"
+    "cheerio": "^0.22.0"
   },
   "devDependencies": {
-    "mocha": "1.16.x",
-    "chai": "1.8.x",
+    "mocha": "^3.2.0",
+    "chai": "^3.5.0",
     "sinon": "1.7.x",
-    "sinon-chai": "2.4.x",
-    "chai-as-promised": "4.1.x"
+    "sinon-chai": "^2.8.0",
+    "chai-as-promised": "^6.0.0"
   },
   "keywords": [
     "form",
